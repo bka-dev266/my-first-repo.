@@ -9,4 +9,5 @@ A repository for learning GitHub.
 📫 You can reach me by email: bahman28917@gmail.com
 
 
-![image](https://github.com/user-attachments/assets/89ca83cb-11f0-4a4c-b5c0-ba120fb5de28)
+![image](https://github.com/user-attachments/assets/8325e9e8-30e9-40b1-bbe7-df500c920831)
+
